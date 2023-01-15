@@ -1,3 +1,6 @@
+#PREVISUALIZACION DE LA PAGINA
+-[Preview page](https://consumirapijsonplaceholder.netlify.app/)
+
 # componentes-1
 
 This template should help get you started developing with Vue 3 in Vite.
